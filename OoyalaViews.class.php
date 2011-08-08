@@ -9,7 +9,7 @@
      * content, particularly focusing on (X)HTML
      *
      * @created 2010
-     * @author Wesley Bliss | wbliss@episcopalchurch.org
+     * @author Wesley Bliss | http://wesleybliss.com/
      *
      * @todo General code cleanup; convert comment style to PHPDoc syntax
      *
