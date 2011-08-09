@@ -1,5 +1,15 @@
 <?php
     
+    /**
+     * This is an example of using the Ooyala and OoyalaViews classes
+     * It will pull a list of all "labels" from Ooyala, showing them with checkboxes,
+     * and generate a player once you've selected a few.
+     * In this way we can create a "dynamic channel" of sorts.
+     *
+     * You need to fill in your PCode and SCode below to get it working.
+     *
+     */
+    
     error_reporting( E_ALL );
     
     if ( !file_exists('Ooyala.class.php') ) {
